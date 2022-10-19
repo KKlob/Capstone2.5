@@ -1,6 +1,6 @@
 # Capstone2.5
 Political Informant Application - Restructured into Express Backend w/ PostgreSQL DB + React Frontend Client
-- Note: Both PA_Server and pi-client will have their own readmes 
+- ToDo: Both PA_Server and pi-client need their own readmes 
 - ToDo: Add instructions for running locally
 
 ## Technical Overview
