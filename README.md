@@ -23,7 +23,7 @@ Full-stack application utilizing an Express REST API handling a PostgreSQL DB wh
   - Express.js - REST API + delivers Front-End via homepage route "/"
   - Sequelize - Manage PostgreSQL DB management
   
-Deployed via Fly.io
+Deployed via Fly.io: [pi-server.dev](https://pi-server.fly.dev/)
 
 ### General Flow
 - The backend will hold all congressional member data and user information for the application via DB.
