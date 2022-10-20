@@ -1,7 +1,15 @@
 # Capstone2.5
 Political Informant Application - Restructured into Express Backend w/ PostgreSQL DB + React Frontend Client
-- ToDo: Both PA_Server and pi-client need their own readmes 
-- ToDo: Add instructions for running locally
+- ToDo: 
+  - Both PA_Server and pi-client need their own readmes 
+  - Add instructions for running locally
+  - Construct DB schema + implement
+    - Models
+    - Utility functions to handle queries for app
+  - Write Utility functions to handle data gathering + cleanup + storage in DB
+  - Write Login/Loggout/Create User functions
+  - Finish backend
+  - Start work on Front-End
 
 ## Technical Overview
 Full-stack application utilizing an Express REST API handling a PostgreSQL DB while delivering a React SPA on the homepage.
